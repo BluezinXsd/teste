@@ -1,4 +1,7 @@
-
 {
-  "Teste": "aa"
+  "id": "my-bucket/my-object.png/456456456456",
+  "name": "my-object.png",
+  "metadata": {
+    "key1": "val1"
+  }
 }
